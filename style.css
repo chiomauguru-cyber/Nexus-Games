@@ -1,0 +1,37 @@
+/* Basic styles */
+:root {
+    color-scheme: dark;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #27272a;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #3f3f46;
+}
+
+/* Transitions */
+#browse-view, #player-view {
+    transition: opacity 0.3s ease-in-out;
+}
+
+.hidden {
+    display: none !important;
+}
