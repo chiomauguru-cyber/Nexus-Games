@@ -19,8 +19,6 @@ const closeButton = document.getElementById('close-button');
 const fullscreenButton = document.getElementById('fullscreen-button');
 const logo = document.getElementById('logo');
 const yearSpan = document.getElementById('year');
-const gameCanvas = document.getElementById('game-canvas');
-const internalUI = document.getElementById('internal-game-ui');
 
 // Set current year
 yearSpan.textContent = new Date().getFullYear();
@@ -102,11 +100,6 @@ function openGame(game) {
     
     if (game.isInternal) {
         gameIframe.classList.add('hidden');
-        if (game.id === 'retro-snake' && window.SnakeGame) {
-            window.SnakeGame.start();
-        } else if (game.id === 'car-chase' && window.CarChaseGame) {
-            window.CarChaseGame.start();
-        }
     } else {
         gameIframe.classList.remove('hidden');
         gameIframe.src = game.iframeUrl;
@@ -122,10 +115,6 @@ function closeGame() {
     playerView.classList.add('hidden');
     browseView.classList.remove('hidden');
     gameIframe.src = '';
-    
-    // Stop internal games
-    if (window.SnakeGame) window.SnakeGame.stop();
-    if (window.CarChaseGame) window.CarChaseGame.stop();
 }
 
 // Event Listeners
