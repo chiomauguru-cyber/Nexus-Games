@@ -25,7 +25,7 @@
   },
   {
     "id": "monkey-mart",
-    "title": "Economics: Monkey Mart.org",
+    "title": "Economics: Market Simulation.org",
     "thumbnail": "https://images.unsplash.com/photo-1542627088-6603b66e5c54?w=400&h=300&fit=crop",
     "iframeUrl": "https://monkey-mart.gamestores.fun/",
     "category": "Monkey Mart",
@@ -33,7 +33,7 @@
   },
   {
     "id": "graphics-lab",
-    "title": "Physics: Smash Karts.org",
+    "title": "Physics: Velocity Lab.org",
     "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
     "iframeUrl": "https://webgltest-17af1.firebaseapp.com/",
     "category": "Smash Karts",
@@ -41,7 +41,7 @@
   },
   {
     "id": "geometry-dash",
-    "title": "Art: Geometry Dash.org",
+    "title": "Art: Geometric Design.org",
     "thumbnail": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=400&h=300&fit=crop",
     "iframeUrl": "https://geometrydash.io/game/geometry-dash-lite/",
     "category": "Geometry Dash",
@@ -49,7 +49,7 @@
   },
   {
     "id": "shell-shockers",
-    "title": "Biology: Shell Shockers.org",
+    "title": "Biology: Cellular Study.org",
     "thumbnail": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=400&h=300&fit=crop",
     "iframeUrl": "https://shellshock.io/",
     "category": "Shell Shockers",
@@ -57,7 +57,7 @@
   },
   {
     "id": "death-by-ai",
-    "title": "CS: Death by AI.org",
+    "title": "CS: Logic & Algorithms.org",
     "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=300&fit=crop",
     "iframeUrl": "https://deathbyai.gg/",
     "category": "Death by AI",
@@ -65,7 +65,7 @@
   },
   {
     "id": "yohoho-io",
-    "title": "History: Yohoho.io.org",
+    "title": "History: Maritime Navigation.org",
     "thumbnail": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?w=400&h=300&fit=crop",
     "iframeUrl": "https://yohoho.io/",
     "category": "Yohoho.io",
@@ -73,7 +73,7 @@
   },
   {
     "id": "retro-bowl",
-    "title": "Math: Retro Bowl.org",
+    "title": "Math: Parabolic Motion.org",
     "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=400&h=300&fit=crop",
     "iframeUrl": "https://retrobowlcollege.co/retro-bowl/",
     "category": "Retro Bowl",
