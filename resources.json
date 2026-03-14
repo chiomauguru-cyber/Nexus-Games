@@ -25,58 +25,58 @@
   },
   {
     "id": "monkey-mart",
-    "title": "Monkey Mart.org",
-    "thumbnail": "https://picsum.photos/seed/monkey/400/300",
+    "title": "Economics: Monkey Mart.org",
+    "thumbnail": "https://images.unsplash.com/photo-1542627088-6603b66e5c54?w=400&h=300&fit=crop",
     "iframeUrl": "https://monkey-mart.gamestores.fun/",
-    "category": "Arcade",
+    "category": "Monkey Mart",
     "isInternal": false
   },
   {
     "id": "graphics-lab",
-    "title": "Smash Karts.org",
-    "thumbnail": "https://picsum.photos/seed/gokart/400/300",
+    "title": "Physics: Smash Karts.org",
+    "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
     "iframeUrl": "https://webgltest-17af1.firebaseapp.com/",
-    "category": "Sports",
+    "category": "Smash Karts",
     "isInternal": false
   },
   {
     "id": "geometry-dash",
-    "title": "GeometryDash.org",
+    "title": "Art: Geometry Dash.org",
     "thumbnail": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=400&h=300&fit=crop",
     "iframeUrl": "https://geometrydash.io/game/geometry-dash-lite/",
-    "category": "Arcade",
+    "category": "Geometry Dash",
     "isInternal": false
   },
   {
     "id": "shell-shockers",
-    "title": "Shell Shockers.org",
-    "thumbnail": "https://picsum.photos/seed/egg/400/300",
+    "title": "Biology: Shell Shockers.org",
+    "thumbnail": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?w=400&h=300&fit=crop",
     "iframeUrl": "https://shellshock.io/",
-    "category": "Shooting",
+    "category": "Shell Shockers",
     "isInternal": false
   },
   {
     "id": "death-by-ai",
-    "title": "Death by AI.org",
-    "thumbnail": "https://picsum.photos/seed/deathai/400/300",
+    "title": "CS: Death by AI.org",
+    "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=300&fit=crop",
     "iframeUrl": "https://deathbyai.gg/",
-    "category": "Arcade",
+    "category": "Death by AI",
     "isInternal": false
   },
   {
     "id": "yohoho-io",
-    "title": "Yohoho.io.org",
-    "thumbnail": "https://picsum.photos/seed/yohoho/400/300",
+    "title": "History: Yohoho.io.org",
+    "thumbnail": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?w=400&h=300&fit=crop",
     "iframeUrl": "https://yohoho.io/",
-    "category": "Arcade",
+    "category": "Yohoho.io",
     "isInternal": false
   },
   {
     "id": "retro-bowl",
-    "title": "Retro Bowl.org",
-    "thumbnail": "https://picsum.photos/seed/retrobowl/400/300",
+    "title": "Math: Retro Bowl.org",
+    "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=400&h=300&fit=crop",
     "iframeUrl": "https://retrobowlcollege.co/retro-bowl/",
-    "category": "Sports",
+    "category": "Retro Bowl",
     "isInternal": false
   }
 ]
